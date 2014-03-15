@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<gpx version="1.0" creator="Viking -- http://viking.sf.net/"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns="http://www.topografix.com/GPX/1/0"
+xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+<wpt lat="48.899447000000002" lon="2.1069100000000001">
+  <name>ChezDelphine</name>
+  <sym>Beach</sym>
+</wpt>
+<wpt lat="48.822512000000003" lon="2.3456070000000002">
+  <name>ChezEmilie</name>
+  <sym>Beach</sym>
+</wpt>
+<wpt lat="43.534255999999999" lon="1.5532539999999999">
+  <name>Coll&#xe8;ge</name>
+  <sym>Church</sym>
+</wpt>
+<wpt lat="43.570238000000003" lon="1.4648429999999999">
+  <name>IUT</name>
+  <sym>Church</sym>
+</wpt>
+<wpt lat="43.539890999999997" lon="1.549172">
+  <name>Lyc&#xe9;e</name>
+  <sym>Church</sym>
+</wpt>
+<wpt lat="43.511114999999997" lon="1.5593790000000001">
+  <name>Maison1</name>
+  <sym>Fishing Hot Spot Facility</sym>
+</wpt>
+<wpt lat="43.516213999999998" lon="1.5548630000000001">
+  <name>Maison2</name>
+  <sym>Fishing Hot Spot Facility</sym>
+</wpt>
+<wpt lat="43.577199999999998" lon="1.48478">
+  <name>Maternit&#xe9;</name>
+  <sym>Flag, Green</sym>
+</wpt>
+</gpx>

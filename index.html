@@ -67,7 +67,7 @@
             var popup = new OpenLayers.Popup.FramedCloud("chicken", 
                 feature.geometry.getBounds().getCenterLonLat(),
                 new OpenLayers.Size(100,100),
-                "<h2>"+feature.attributes.name + "</h2>" ,
+                "<h3>"+feature.attributes.name + "</h3>" ,
                 null, true, onPopupClose
             );
             feature.popup = popup;
